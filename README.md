@@ -4,7 +4,7 @@
 
 ## Overview
 
-SmalleOS is a tiny **bootable terminal OS** (512 bytes) made by **DBS**.  
+SmalleOS is a tiny **bootable terminal OS** (1 kilobyte) made by **DBS**.  
 It runs in emulators like QEMU and can also be booted from a floppy image in VirtualBox.  
 
 ---
