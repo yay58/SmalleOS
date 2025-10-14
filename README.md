@@ -13,27 +13,14 @@ It runs in emulators like QEMU and can also be booted from a floppy image in Vir
 
 Currently, only the following command works:
 
-dir
-
-- `dir` → shows a list of fake files.  
-
-Other commands (`cls`, `ver`, `help`) are planned but not functional in this version.  
+ver    
 
 ---
 
-## How to boot
+## Why this is tiny:
+Because we want it tiny as possible as we can.
+## And it doesn't show anything just to fit in the size...
 
-### Using QEMU:
-```bash
-qemu-system-x86_64 -fda smalleos.img
-Using VirtualBox:
-Create a 1.44MB floppy image.
+so yea
 
-Write smalleos.img to the first sector.
-
-Attach the floppy image as a boot device.
-
-Start the VM.
-
-Made by DBS
 All work done by DBS.
