@@ -4,7 +4,7 @@
 
 ## Overview
 
-SmalleOS is a tiny **bootable terminal OS** (1 kilobyte) made by **DBS**.  
+SmalleOS is a tiny **bootable terminal OS** (128 bytes) made by **DBS**.  
 It runs in emulators like QEMU and can also be booted from a floppy image in VirtualBox.  
 
 ---
@@ -13,7 +13,7 @@ It runs in emulators like QEMU and can also be booted from a floppy image in Vir
 
 Currently, only the following command works:
 
-ver    
+ver    (but it won't show the output.)
 
 ---
 
