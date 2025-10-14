@@ -15,9 +15,6 @@ Currently, only the following command works:
 
 dir
 
-yaml
-Copy code
-
 - `dir` → shows a list of fake files.  
 
 Other commands (`cls`, `ver`, `help`) are planned but not functional in this version.  
